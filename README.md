@@ -33,8 +33,12 @@ difficault to promt and struggling for making a layout for my chatbot ai
 
 
 
-End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+End-of-day Checkout (Screenshot of the biggest "win")
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/045af100-a63b-4197-8587-312e55a75890" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3547e806-5a5a-432d-8371-4877fd913a33" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bda5a9ce-5b4f-4b4f-8fe6-2093db24931b" />
+
+
 
 
 
