@@ -10,3 +10,42 @@ this is created through basic react concept and Tailwind css
 
 
 
+
+
+
+Engineering Journal
+Artifact for the 2nd week of Training
+
+Date: 2-10-26
+
+Morning Stand-Up:
+
+What did I do yesterday?
+i did yesterday is i created a basic react concept and tailwind css, its like a 
+cumputing and i magade my code that are devided into components
+
+What will I do today?
+maybe i will do today is that we will have a hard time to do some codings today just like what sir rammne said yesterday 
+but i will focus to him to what will i do to tha program
+
+What are my blockers?
+
+
+End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
