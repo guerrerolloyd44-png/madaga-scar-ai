@@ -102,6 +102,11 @@ End-of-day Checkout (Screenshot of the biggest "win
 <img width="388" height="846" alt="image" src="https://github.com/user-attachments/assets/6b0175aa-423d-4eb7-9344-1ad9c821a865" />
 <img width="388" height="846" alt="image" src="https://github.com/user-attachments/assets/9b745d84-ae77-4146-adbb-cf5519e7c8e2" />
 <img width="386" height="845" alt="image" src="https://github.com/user-attachments/assets/a28eb612-3fbd-4174-b933-d41426e59668" />
+<img width="385" height="847" alt="image" src="https://github.com/user-attachments/assets/8ec9f24b-b76d-49b8-bbba-6a446acde3bf" />
+<img width="384" height="846" alt="image" src="https://github.com/user-attachments/assets/a43a6e8e-f4ca-4806-bd9a-dcb6c7a50be3" />
+<img width="386" height="848" alt="image" src="https://github.com/user-attachments/assets/ba9dbe73-8c82-4f2a-8915-2f7d3d1eab83" />
+
+
 
 
 
