@@ -72,6 +72,29 @@ End-of-day Checkout (Screenshot of the biggest "win")
 
 
 
+Engineering Journal
+Artifact for the 2nd week of Training
+
+Date: 2-12-26
+Morning Stand-Up:
+
+What did I do yesterday?
+i did yesterday is we created a back end, chat bot like a chat gpt that can talk to us
+
+What will I do today? 
+now we will convert the front end into a code and ask a help to a google ai studio 
+
+
+What are my blockers?
+
+
+
+End-of-day Checkout (Screenshot of the biggest "win")
+
+
+
+
+
 
 
 
